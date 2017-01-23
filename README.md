@@ -1,5 +1,5 @@
 # Minik Gemicik
-A local multiplayer game for two people. Requires a keyboard with numpad. Created at GGJ EGE 2017 by our team.
+A local multiplayer game for two people. Requires a keyboard with numpad. Created at [GGJ EGE 2017](http://ggjege.org/) by our team.
 ![Game title](https://raw.githubusercontent.com/erhanalankus/minik-gemicik/master/ss-game-title.jpg)
 
 # The Game
