@@ -7,6 +7,8 @@ Player One controls the ship with W,A,S,D keys. Player two sends attacks to sink
 
 ![Game arena without numpad](https://raw.githubusercontent.com/erhanalankus/minik-gemicik/master/ss-without-numpad.png) ![Game arena with numpad](https://raw.githubusercontent.com/erhanalankus/minik-gemicik/master/ss-with-numpad.png)
 
+Here are two people playing the game while it was still being developed: https://www.youtube.com/watch?v=1VBvD53pzqw
+
 # How to start working on this
 Type:
 ```
